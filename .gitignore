@@ -5,4 +5,5 @@
 *.txt
 *.ipynb_checkpoints*
 *DS_Store*
-Week*.ipynb
+*Week*.ipynb
+*/data/*
